@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FaisalRasheed1174
-- 👀 I’m interested in Web development (front/Back) as career but cyber security is something which i'd loved to be taught or guided 
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on any real world project related to web as a front end  
-- 📫 How to reach me  0092-3024843663 ....... email id ...faisalrahseed1174@gmail.com
+- 👋 Hi, I’m @FaisalRasheed1174 currently student of Computer Science last year 
+- 👀 I’m interested Competative programing as career 
+- 🌱 I’m currently learning MERN stack 
+- 💞️ I’m looking to collaborate on any real world project related Computer Science   
+- 📫 @faisalrahseed1174@gmail.com // twitter.com/FaisalAR1174
