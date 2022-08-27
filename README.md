@@ -1,14 +1,12 @@
 ### Hi there 👋, my name is Faisal 
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=826&t=st=1661583852~exp=1661584452~hmac=6cc5f68fc86657868304631262035540ced388b68bc631e117982c2961e5d32c)
+![](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=826&t=st=1661583852~exp=1661584452~hmac=6cc5f68fc86657868304631262035540ced388b68bc631e117982c2961e5d32c)
 
- Hi, I’m @FaisalRasheed1174 currently student of Computer Science final year
-eyes I’m interested Competative programing as career
-seedling I’m currently learning MERN stack
+  I am currently student of Computer Science final year.
+  I’m interested competitive programming & currently learning MERN 
  I’m looking to collaborate on any real world project related Computer Science
 @faisalrahseed1174@gmail.com
 
-Skills: Node JS / REACT / JS / Java / CSS
+Skills: Node JS / REACT / JS / Java / MySql
 
 - 🔭 I’m currently working on My own project  
 - 🌱 I’m currently learning Docker 
