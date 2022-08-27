@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Faisal 
-![](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=826&t=st=1661583852~exp=1661584452~hmac=6cc5f68fc86657868304631262035540ced388b68bc631e117982c2961e5d32c)
+![](https://twitter.com/FaisalAR1174/header_photo)
 
   I am currently student of Computer Science final year.
   I’m interested competitive programming & currently learning MERN 
