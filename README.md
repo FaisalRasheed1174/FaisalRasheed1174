@@ -2,7 +2,7 @@
 #### I am Computer Science student
 ![I am Computer Science student](https://media-exp1.licdn.com/dms/image/C4D16AQFXQ0ZIRXZBqg/profile-displaybackgroundimage-shrink_200_800/0/1661588602854?e=1666828800&v=beta&t=2kRso3KIA1K_fjHRSuQXbnDeWDzMNi-k_IjpYOHsDGo)
 
-I am currently in final year of Computer Science .Interested in competitive programming & currently learning MERN. Would  like to collaborate on any real world project related Computer Science 
+I am in final year of Computer Science .Interested in competitive programming &  learning MERN. Would  like to collaborate on any real world project related Computer Science 
 
 Skills:  MySql / REACT / Node JS / JS / Java
 
